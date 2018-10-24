@@ -2,9 +2,7 @@
 
 # An Akka-Http Server for Twitter Sign In Implementation. 
 
-Since I spend a lot of time trying to make this Twitter Sign In Flow, I share with you this Akka-Http Scala Server. Consider having a webApp written in your favourite language/framework. Personally, I developed this with an Angular 6 App.
-
-Needless to say, don't be using this code in production. It's only for developing purposes.
+This is an Update of https://github.com/farriagada/twitterOAuthServerScala. Now it works with SBT instead of maven!
 
 ## Step one
 
